@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "connection http POST",
+  "main": "server.js",
+  "author": "LUIS IVAN ESPIN VELASCO",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "node-rest-client": "^3.1.0",
+    "query-string": "^5.0.1"
+  }
+}
